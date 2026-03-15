@@ -18,5 +18,7 @@ components库是PageManage库的一个拓展
 
 目前有button,trigger,encoder,joystick这四种组件,用户也可以创建自己的独有组件
 
+每一个组件都可以作为一个page输出,也可以单独创建输出
+
 ![](https://github.com/Zodiak-321/PageManage/blob/main/photos/aa5b506c199d846f44db91671ea4fe3c_720.jpg)
 
