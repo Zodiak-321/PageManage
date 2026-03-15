@@ -10,6 +10,13 @@ PageManage是一个可以管理页面的库,主要应用对象是LCD
 - 通过注册回调函数来实现不同页面的输入输出
 - 拥有智能输出,可以区分固定页面和动态页面,节省单片机资源
   
+---
+
+## components
+
+components库是PageManage库的一个拓展
+
+目前有button,trigger,encoder,joystick这四种组件,用户也可以创建自己的独有组件
 
 
 
