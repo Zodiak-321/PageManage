@@ -14,7 +14,7 @@ PageManage是一个可以管理页面的库,主要应用对象是LCD
 
 ## components
 
-components库是PageManage库的一个拓展
+components库是PageManage库的一个拓展,使用的时候需要搭配TFT_eSPI使用,或者用户可以通过修改绘制输入来使用自己的LCD库
 
 目前有button,trigger,encoder,joystick这四种组件,用户也可以创建自己的独有组件
 
